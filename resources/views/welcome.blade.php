@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5 Test Coba</div>
+                <div class="title">Laravel 5 Test Github</div>
             </div>
         </div>
     </body>
